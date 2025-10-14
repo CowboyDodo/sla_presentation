@@ -1,0 +1,9 @@
+| ID  | Bereich         | Link                                                                                                                                                                                                         | Datum    |
+| --- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- |
+| 1   | Definition      | https://www.ibm.com/de-de/think/topics/service-level-agreement                                                                                                                                               | 07.10.25 |
+| 2   | SLA-Arten PNG   | https://cdn.prod.website-files.com/6084671f10af4f0949901b19/6810729b548b5a2f1da48a41_Warum%20ist%20der%20Abschluss%20eines%20Service%20Level%20Agreements%20wichtig_%20-%20visual%20selection%20copy%203.png | 14.10.25 |
+| 3   | SLA-Arten       | https://www.top.legal/wissen/sla-vorlage                                                                                                                                                                     | 14.10.25 |
+| 4   | Komponenten     | https://www.ibm.com/de-de/think/topics/service-level-agreement                                                                                                                                               | 07.10.25 |
+| 5   | SLA-Vertrag PNG | https://www.schweizer-vertraege.ch/Thema/IT-Wartung-und-Lizenzen/79-Muster-Service-Level-Agreement                                                                                                           | 07.10.25 |
+https://business.adobe.com/de/blog/basics/service-level-agreements-slas-a-complete-guide
+https://www.srd-rechtsanwaelte.de/en/blog/service-level-agreement-sla-key-components 
