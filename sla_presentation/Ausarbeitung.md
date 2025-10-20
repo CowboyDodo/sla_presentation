@@ -16,13 +16,13 @@ SLA ist die Abkürzung für *Service Level Agreement* und behandelt einen auszuf
 > In meinerm Unternehmen ist es bspw. ersteres
 
 Der Vorteil? Reibungslose Arbeitsbeziehung durch anfängliche Beseitigung der Streitpunkte und Schhutz der Interessen aller Beteiligten. 
-SLAs werden in 3 Arten bzw 4 Arten unterteilt. Alle haben ähnliche Ziele, dienen aber jeweils unterschiedlichen Geschäftsbeziehungen und enthalten individuelle Nuancen.
 
 ## <u>Arten von SLA</u>
 <!-- Quell-ID 2 -->
 ![[SLA_Arten.png]]
 <!-- Quell-ID 3 -->
-Blablablala
+SLAs werden in 3 Arten bzw 4 Arten unterteilt. Alle haben ähnliche Ziele, dienen aber jeweils unterschiedlichen Geschäftsbeziehungen und enthalten individuelle Nuancen.
+Das klassische SLA - oder jedenfalls das, was ich mir unter SLA immer vorstelle - ist das kundenspezifische SLA. Also der Vertrag zwischen Kunde und Anbieter. Dabei werden hier individuelle Anpassungen ausgehandelt   
 
 
 
@@ -56,9 +56,9 @@ Jeder, der sich jetzt fragt, wie so ein Vertrag aussieht, ich kann euch versiche
 	- **Statusaktualisierung**, bei der laufend Information an den Kunden über den Ticketstatus über eSupport oder ähnliche Systeme weitergegben wird
 * Der zweite Bereich sind weitere Supportanfragen, die durch das SLA abgedeckt sind
 	Hier wird festgelegt, welche zusätzlichen Services mit dem SLA abgedeckt sind – also was der Kunde erwarten kann. Dazu zählt bspw.
-	* Applikation überwachen
-	* Erweiterung bestehender Software und
-	* Level-2-Support:
+	- Applikation überwachen
+	- Erweiterung bestehender Software und
+	- Level-2-Support:
 Wie ihr seht, alles ziemlich trocken und informativ. Ein Vertrag eben.
 
 
