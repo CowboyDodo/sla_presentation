@@ -2,7 +2,7 @@
 Thema: SLA - Service Level Agreement
 Präsentatoren: Lars, Kevin, Gabriel, Peter
 Datum: 07.10.2025
-Quellverzeichnis: "[[Quellen]]"
+Quellverzeichnis: "[[Ausarbeitung]]"
 TO-DO: "[[TO-DO]]"
 ---
 ## <u>Verhandlungsgespräch</u>
@@ -22,7 +22,17 @@ Der Vorteil? Reibungslose Arbeitsbeziehung durch anfängliche Beseitigung der St
 ![[SLA_Arten.png]]
 <!-- Quell-ID 3 -->
 SLAs werden in 3 Arten bzw 4 Arten unterteilt. Alle haben ähnliche Ziele, dienen aber jeweils unterschiedlichen Geschäftsbeziehungen und enthalten individuelle Nuancen.
-Das klassische SLA - oder jedenfalls das, was ich mir unter SLA immer vorstelle - ist das kundenspezifische SLA. Also der Vertrag zwischen Kunde und Anbieter. Dabei werden hier individuelle Anpassungen ausgehandelt   
+
+Das klassische SLA - oder jedenfalls das, was ich mir unter SLA immer vorstelle - ist das kundenspezifische SLA. Also der Vertrag zwischen Kunde und Anbieter. Dabei werden hier individuelle Anpassungen ausgehandelt.
+Wenn ein Kunde beispielsweise die Dienste eines Internetanbieters abonniert, schließt er/sie eine SLA-Vereinbarung ab, die ihm/Ihr ein bestimmtes Maß an Internetgeschwindigkeit, Betriebszeit und technischer Unterstützung garantiert.
+
+Kundenspezifische SLAs gehen oftmals mit einer hohen Kundenzufriedenheit einher, da sie maßgeschneiderte Vereinbarungen haben und klare Strukturen haben, erfordert habe einen hohen Verwaltungsaufwand.
+
+Im Gegensatz zu den individuellen SLAs stehen die servicebasierten SLAs. 
+Hier weird eine übergreifende SLA für alle Kunden, die die gleiche Dienstleistung benutzen, erstellt.  Es gibt klare Standards und ermöglicht eine einfache verwaltung. Kunden, mit bseonderen Anforderungen können hier aber nicht berücksichtigt werden.
+Eine Mischung aus beidem kann Abhilfe schaffen.
+
+Und das berücksichtigt die Mehrstufige (Multi-Layer) SLA. Ein Konzern nutzt ein allgemeines SLA und
 
 
 
