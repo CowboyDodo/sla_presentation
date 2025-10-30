@@ -15,13 +15,27 @@ SLA ist die Abkürzung für *Service Level Agreement* und behandelt einen auszuf
 
 > In meinerm Unternehmen ist es bspw. ersteres
 
-Der Vorteil? Reibungslose Arbeitsbeziehung durch anfängliche Beseitigung der Streitpunkte und Schhutz der Interessen aller Beteiligten. 
+## <u>Vorteile</u>
+<!-- Quell-ID 2 -->
+Und warum macht man das jetzt genau?
+
+Zum einen verbessert man so die Servicequalität. "Der Support soll halt schnell reagieren". "Wir bemühen uns um eine hohe Uptime". Klingt jetzt nicht wirklich motivierend. Mit SLAs hat man die Möglichkeit, eigene Produkte und Service besser analysieren zu können. Durch die eingebauten Mechanismen und Verpflichtungen durch klare Ziele, Konsequenzen bei Nichteinhaltung, monatliche Berichte etc stellt man fest, was funktioniert und was Potenzial zur Verbesserung hat.
+So wird anfängliche Satz zu: "Reaktionszeit < 1 Stunde, Lösungszeit < 4 Stunden.“ Das suggeriert Professionalität. "Wir haben unsere Prozesse so im Griff, dass wir sie vertraglich garantieren können". Fantastisch.
+
+Jetzt stellt euch vor, ihr habt ein dringliches Problem und fragt euch, wo genau ihr euch melden sollt. Als einzige Antwort habt ihr "Rufen sie einfach wen an, es wird shcon jemand abnehmen" erhalten. Puuuhh.
+Durch klare Rollenverteilung und festgelegte Verantwortlichen wird Klarheit geschaffen über die Prozesse und Kanäle für die Behebung von Problemen. Das erleichtert die Kommunikation ungemein. Eine Aussage wie „Sie erreichen uns auf der Support-Hotline 24/7 bei folgenden Problemen“ klingt doch einleuchtender.
+
+Auch werden die Risiken minimiert, indem man proaktiv vorangehen kann. Punkt Risikomanagement. Der Prozess identifiziert potenzielle Risiken, begrenzt  und kompensiert diese, bevor sie zu teuer oder rechtlich problematisch werden. Eine ständiges Monitoring (sprich Überwachung) ist dabei unabdingbar. Ein SLA ist also nicht nur ein reagierendes Kontrollinstrument, sondern ein aktives Werkzeug des Risikomanagements. 
+
+Zu guter Letzt definieren die Erwartungen in Bezug auf die Service-Verfügbarkeit, legen Richtlinien für Ausfallzeiten fest und bestimmen die Verfahren für Ausfälle und die Notfallwiederherstellung. Diese Maßnahmen tragen dazu bei, Störungen und unerwartete Ausfallzeiten zu minimieren und technische Probleme und Service-Ausfälle schnell zu beheben.
+
+Ich denke, das macht es klar, warum man unbedingt ein SLA Vertrag abschließen möchte. Kleiner Fun-Fact, die Verträge können ziemlich groß werden. Der Microsoft Azure SLA Vertrag, aus dem wir später auch noch einen zeigen werden, ist über 100 Seiteh lang.
 
 ## <u>Arten von SLA</u>
-<!-- Quell-ID 2 -->
-![[SLA_Arten.png]]
 <!-- Quell-ID 3 -->
-SLAs werden in 3 Arten bzw 4 Arten unterteilt. Alle haben ähnliche Ziele, dienen aber jeweils unterschiedlichen Geschäftsbeziehungen und enthalten individuelle Nuancen.
+![[SLA_Arten.png]]
+<!-- Quell-ID 4 -->
+Aber es gibt nicht nur den einen SLA Vertrag. Tatsächlich werden SLAs in 3 bzw 4 Arten unterteilt. Alle haben ähnliche Ziele, dienen aber jeweils unterschiedlichen Geschäftsbeziehungen und enthalten individuelle Nuancen.
 
 Das klassische SLA - oder jedenfalls das, was ich mir unter SLA immer vorstelle - ist das kundenspezifische SLA. Also der Vertrag zwischen Kunde und Anbieter. Dabei werden hier individuelle Anpassungen ausgehandelt.
 Wenn ein Kunde beispielsweise die Dienste eines Internetanbieters abonniert, schließt er/sie eine SLA-Vereinbarung ab, die ihm/Ihr ein bestimmtes Maß an Internetgeschwindigkeit, Betriebszeit und technischer Unterstützung garantiert.
@@ -32,12 +46,15 @@ Im Gegensatz zu den individuellen SLAs stehen die servicebasierten SLAs.
 Hier weird eine übergreifende SLA für alle Kunden, die die gleiche Dienstleistung benutzen, erstellt.  Es gibt klare Standards und ermöglicht eine einfache verwaltung. Kunden, mit bseonderen Anforderungen können hier aber nicht berücksichtigt werden.
 Eine Mischung aus beidem kann Abhilfe schaffen.
 
-Und das berücksichtigt die Mehrstufige (Multi-Layer) SLA. Ein Konzern nutzt ein allgemeines SLA und
+Und das berücksichtigt die Mehrstufige (Multi-Layer) SLA. Ein Konzern nutzt ein allgemeines SLA auf Unternehmensebene für alle Kunden gleichermaßen, die aber mit weiteren individuellen Verinbarungen je nach Kunde beschmückt sind.
+Ein Telekommunikationsunternehmen kann zum Beispiel allen seinen Kunden grundlegende Dienste und Unterstützung anbieten, aber mehrere Preisspannen haben, die das Serviceniveau für jede Kundengruppe bestimmen.
+Das gibt uns hohe Flexibilität und eine gute Balance zwischen Standardisierung und Individualisierung. Erfordert aber natürlich einen komplexe Verwaltung und ein gutes SLA-Managment.
 
-
+Zu guter Letzt gibt es auch interne SLAs, die die Verantwortlichkeiten zwischen Teams und Abteilungen klären. Ziemlich straight forward. Trotzdem muss ich hier etwas hinzufügen:
+es gibt hier nämlich unterschiedliche Auffassungen. Da SLAs per se nur das Verhältnis zwischen Diensleister und Kunden klären und nicht zwischen internen Organisationen, sind interne "SLAs" eher OLAs - also Operational Level Agreement. Die funktionieren im Kern aber genauso. Wir haben uns trotzdem dazu entschieden, das mitreinzunehmen, um euch zu zeigen, dass es so etwas auch intern gibt. Wir werden aber nicht weiter auf OLAs eingehen.
 
 ## <u>Komponenten von SLAs</u>
-<!-- Quell-ID 4 -->
+<!-- Quell-ID 5 -->
 Einige Komponenten wurden anfangs in unserem [[Verhandlungsgespräch]] vorgestellt. Wir haben bspw. darüber geredet, welchen Standard wie anstreben: eine Verfügbarkeit von 99,5%.. Die Leistungsverfolgung ist ein essentieller Punkt im SLA. 
 Wir haben die eine Vertragsstrafe angesprochen: eine 10%-ige Kürzung der Monatsgebühr bei Nichteinhaltung der 10min Frist bei einer Störung. Ohne Wiedergutmachung kein SLA.
 Zu guter Letzt haben wir uns noch darauf geeinigt, dass wir einen monatlichen Bericht über unseren Service bereitstellen und zu unserem Vertragspartner schicken. Verständlicherweise wollen diejenigen, die den Service in Beanspruchung nehmen, auch eine aufgeschlüsselte Berichterstattung haben.
@@ -56,10 +73,12 @@ Und noch einige weitere, die wir jetzt hier nur einblenden werden
 * Unterschriften
 
 ## Auszug aus einem SLA Vertrag - Musterbeispiel
-<!-- Quell-ID 5 -->
-[![[SLA_Auschsnitt.png|100]]](SLA_Auschsnitt.png)
+<!-- Quell-ID 6 -->
+[![[SLA_Ausschnitt.png|200]]](SLA_Auschsnitt.png)
+
 *Auszug aus einem SLA Vertrag*
-Jeder, der sich jetzt fragt, wie so ein Vertrag aussieht, ich kann euch versichern, es ist nichts wildes. Wir haben mal ein Musterbeispiel für euch rausgesucht. Das Beispiel zeigt den Abschnitt _Bereich des Agreements_, also welche konkreten Services unter diesen SLA fallen. Jetzt denken wir nochmal zurück zu den Komponenten und wissen, es geht um die Beschreibung der Diensleistungen - hier unterteilt in 2 Bereiche:
+Um euch das auch anhand eines Beispiels zu zeigen, haben wir hier ein Auszug aus einem Muster-SLA für euch.
+Jeder, der sich bis jetztgefragt hat, wie so ein Vertrag aussieht, ich kann euch versichern, es ist nichts wildes. Das Beispiel zeigt den Abschnitt **Bereich des Agreements**, also welche konkreten Services unter diesen SLA fallen. Jetzt denken wir nochmal zurück zu den Komponenten und wissen, es geht um die **Beschreibung der Diensleistungen** - hier unterteilt in 2 Bereiche:
 * Automatische Dienstleistungen gemäß SLA
 	In diesem Teil wird geregelt, was automatisch passiert, wenn ein Problem an den Provider übergeben wird.
 	- Dazu zählt der Punkt **Korrigierender Systemunterhalt:** Die Fehleranalyse und -behebung (Root-Cause-Analyse, Bug Fixing) und die
@@ -69,6 +88,4 @@ Jeder, der sich jetzt fragt, wie so ein Vertrag aussieht, ich kann euch versiche
 	- Applikation überwachen
 	- Erweiterung bestehender Software und
 	- Level-2-Support:
-Wie ihr seht, alles ziemlich trocken und informativ. Ein Vertrag eben.
-
-
+Wie ihr seht, alles ziemlich trocken und informativ - wie ein Vertrag eben so ist.
