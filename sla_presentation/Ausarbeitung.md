@@ -52,7 +52,6 @@ Das gibt uns hohe Flexibilität und eine gute Balance zwischen Standardisierung 
 
 Zu guter Letzt gibt es auch interne SLAs, die die Verantwortlichkeiten zwischen Teams und Abteilungen klären. Ziemlich straight forward. Trotzdem muss ich hier etwas hinzufügen:
 es gibt hier nämlich unterschiedliche Auffassungen. Da SLAs per se nur das Verhältnis zwischen Diensleister und Kunden klären und nicht zwischen internen Organisationen, sind interne "SLAs" eher OLAs - also Operational Level Agreement. Die funktionieren im Kern aber genauso. Wir haben uns trotzdem dazu entschieden, das mitreinzunehmen, um euch zu zeigen, dass es so etwas auch intern gibt. Wir werden aber nicht weiter auf OLAs eingehen.
-
 ## <u>Komponenten von SLAs</u>
 <!-- Quell-ID 5 -->
 Einige Komponenten wurden anfangs in unserem [[Verhandlungsgespräch]] vorgestellt. Wir haben bspw. darüber geredet, welchen Standard wie anstreben: eine Verfügbarkeit von 99,5%.. Die Leistungsverfolgung ist ein essentieller Punkt im SLA. 
