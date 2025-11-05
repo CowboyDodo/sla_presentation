@@ -1,3 +1,5 @@
+1.  Go to settings
+2.  Go to appearance -> css snippets
 ```
 /* Comments appears on the left sidebar*/
 
