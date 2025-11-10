@@ -1,5 +1,5 @@
-1. Was ist die Langform von SLA 
-	- Service Level Agreement
+1. Erkläre in Stichworten was ein SLA ist 
+	- Service Level Agreement ist eine Art von Vertragsform, die darauf abzielt mögliche Missverständnisse und Unklarheiten zwischen zwei Service Parteien zu verhindern
 
 2. Welche Vorteile bringt die Einführung von SLAs in einem Unternehmen?
   - Klare Rahmenbedingungen für Unternehmen und Dienstleister
