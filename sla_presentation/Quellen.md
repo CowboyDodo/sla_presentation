@@ -8,5 +8,3 @@
 | 6   | SLA-Arten        | https://www.top.legal/wissen/sla-vorlage                                                                                                                                                                     | 14.10.25 |
 | 7   | Komponenten      | https://www.ibm.com/de-de/think/topics/service-level-agreement                                                                                                                                               | 07.10.25 |
 | 8   | SLA-Vertrag PNG  | https://azure.microsoft.com/de-de/support/plans/response                                                                                                                                                     | 07.10.25 |
-https://business.adobe.com/de/blog/basics/service-level-agreements-slas-a-complete-guide
-https://www.srd-rechtsanwaelte.de/en/blog/service-level-agreement-sla-key-components 

@@ -1,6 +1,6 @@
 
 - [x] Definition
 - [x] Arten von SLAs dokumentieren
-- [ ] Alltagsbeispiel aufzeigen
+- [x] Alltagsbeispiel aufzeigen
 - [x] Inhalte von SLAs dokumentieren
-- [ ] Leistungsmessung
+- [x] Leistungsmessung

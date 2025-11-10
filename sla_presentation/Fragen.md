@@ -1,10 +1,13 @@
-- Was ist die Langform von SLA  = Service Level Agreement  
-- Welche Vorteile bringt die Einführung von SLAs in einem Unternehmen?  
-  - Klare Rahmenbedingungen für Unternehmen und Dienstleister  
-  - Verbesserung der Servicequalität   
-  - Klar definierte Ziele des Services   
-  - Klare Konsequenzen bei Verfehlung von Leistungen    
-- Nenne drei Unterschiedliche Arten von SLAs und erläutere die Merkmale dieser   
+1. Was ist die Langform von SLA 
+	- Service Level Agreement
+
+2. Welche Vorteile bringt die Einführung von SLAs in einem Unternehmen?
+  - Klare Rahmenbedingungen für Unternehmen und Dienstleister
+  - Verbesserung der Servicequalität
+  - Klar definierte Ziele des Services
+  - Klare Konsequenzen bei Verfehlung von Leistungen
+
+1. Nenne drei Unterschiedliche Arten von SLAs und erläutere die Merkmale dieser   
   - Das klassische SLA / kundenspezifische SLA. Also der Vertrag zwischen Kunde und Anbieter. Dabei werden hier individuelle Anpassungen ausgehandelt.  
   - Servicebasierten SLAs. Hier wird eine übergreifende SLA für alle Kunden, die die gleiche Dienstleistung benutzen, erstellt. Es gibt klare Standards und ermöglicht eine einfache Verwaltung.  
   - Mehrstufige (Multi-Layer) SLA. Ein Konzern nutzt ein allgemeines SLA auf Unternehmensebene für alle Kunden gleichermaßen, die aber mit weiteren individuellen Vereinbarungen je nach Kunde beschmückt sind. Das gibt hohe Flexibilität und eine gute Balance zwischen Standardisierung und Individualisierung.   

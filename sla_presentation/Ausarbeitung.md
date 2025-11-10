@@ -111,4 +111,6 @@ Darüber hinaus gibt es aber auch Verpflichtungen des Kundens, die erfüllt werd
 <font color="FFFB00">[Klick]</font>
 Und hier haben wir auch nochmal die Leistungsmessung dabei. 
 
-
+## <u>Fazit</u>
+SLAs eignen sich hervorragend, um Missverständnisse zu vermeiden und Reibungen zwischen Kundschaft und Anbieter oder zwischen Mitarbeitenden zu reduzieren. Es dient als klare Grundlage für die Erwartungshaltung und ermöglicht eine transparente Überwachung und Bewertung des Systems. Ohne dies wäre die Verbesserung des eigenen Services deutlich schwieriger. 
+Man darf aber den dahinter stehenden Aufwand nicht unterschätzen.
