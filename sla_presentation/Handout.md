@@ -52,3 +52,29 @@ Kombination aus allgemeinem Unternehmens-SLA für alle Kunden und zusätzlichen 
 - **Internes SLA / OLA (Operational Level Agreement)** <br>
 Regelt Verantwortlichkeiten zwischen Teams oder Abteilungen innerhalb eines Unternehmens; funktioniert wie ein SLA, gilt aber intern.
 
+### <u> Komponenten eines SLA-Vertrags </u>
+- **Allgemeine Vertragsmerkmale**
+
+
+- **Detaillierte Beschreibung der Dienstleistung**
+
+
+- **Leistungsstandards**
+
+- **Vertragsstrafen / Entschädigungen**
+
+- **Reporting**
+
+- **Stakeholder und Verantwortlichkeiten**
+
+- **Ausschlüsse**
+
+- **Sicherheitsprotokolle**
+
+- **Entschädigungsklauseln**
+
+- **Prozess zur Überprüfung und Anpassung**
+
+- **Kündigungsprozess und -bedingungen**
+
+- **Unterschriften**
