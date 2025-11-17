@@ -1,0 +1,15 @@
+- Verhandlungsgespräch
+	- Kevin & Gabriel
+- Einleitung & Definition
+	- Lars
+- Vorteile
+	- Kevin
+- Leistungsmessung
+	- Peter
+- Arten von SLA
+	- Lars
+- Komponenten
+	- Gabriel
+- Beispiel
+	- Peter
+- 
